@@ -1,2 +1,2 @@
-# varmonitor
+# VarMonitor
 Subdomain/Asset monitoring software
