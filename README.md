@@ -4,7 +4,7 @@ Subdomain Monitoring Software which made with MySQL and Python
 ### Features
 - Detects subdomains from many sources.
 - Alerts you for any changes to your target.
-- Alerts using by Telegram (using pyTelegramBotAPI)
+- Alerts using by Telegram (pyTelegramBotAPI)
 - Generates variations from detected subdomains and checks them using by DNSGEN and MASSDNS
 
 ### When it alerts you?
