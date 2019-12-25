@@ -24,3 +24,6 @@ Subdomain Monitoring Software which made with MySQL and Python
 | ID | Github | Twitter   |
 |----|--------|-----------|
 | 0  | xyele  | zeroxyele |
+
+### Note
+I'm gonna share that software when this repo reaches 500 stars.
