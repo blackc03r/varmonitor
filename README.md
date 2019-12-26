@@ -12,6 +12,7 @@ Subdomain Monitoring Software which made with MySQL and Python
 - When detected the takeover issue on subdomains.
 - When the response of the subdomain has changed.
 - When the DNS record of the subdomain has changed.
+- When the software detects secret/api key.
 
 ### Sources of Subdomains
 - SubFinder
